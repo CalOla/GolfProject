@@ -1,0 +1,212 @@
+Aggie Mixed Golf League
+10 0
+0 0 0 Golf_Team_0
+0
+Dara
+Sampson
+0 0
+1
+Bethany
+Williamson
+0 0
+2
+Lamar
+Collins
+0 0
+3
+Callie
+Conley
+0 0
+4
+Illiana
+Duncan
+0 0
+1 0 0 Golf_Team_1
+10
+Arsenio
+Brady
+0 0
+11
+Allen
+Sheppard
+0 0
+12
+Scarlett
+Humphrey
+0 0
+13
+Astra
+Mcclain
+0 0
+14
+Blaze
+Burton
+0 0
+2 0 0 Golf_Team_2
+20
+Signe
+Anderson
+0 0
+21
+Fiona
+Mclaughlin
+0 0
+22
+Kaseem
+Bennett
+0 0
+23
+Unity
+Lara
+0 0
+24
+Judah
+Cox
+0 0
+3 0 0 Golf_Team_3
+30
+John
+Moses
+0 0
+31
+Dustin
+Tate
+0 0
+32
+Reuben
+Madden
+0 0
+33
+Leandra
+Hayden
+0 0
+34
+Nasim
+Hooper
+0 0
+4 0 0 Golf_Team_4
+40
+Sylvester
+Solomon
+0 0
+41
+Tana
+Blackburn
+0 0
+42
+Summer
+Meyers
+0 0
+43
+Whitney
+Juarez
+0 0
+44
+Camille
+Acosta
+0 0
+5 0 0 Golf_Team_5
+50
+Philip
+Howard
+0 0
+51
+Ferdinand
+Hines
+0 0
+52
+Colette
+Ramirez
+0 0
+53
+Aspen
+Norris
+0 0
+54
+Porter
+Nash
+0 0
+6 0 0 Golf_Team_6
+60
+Steel
+Cantu
+0 0
+61
+Edan
+Nichols
+0 0
+62
+Kylynn
+Morales
+0 0
+63
+Nissim
+Holloway
+0 0
+64
+Jermaine
+Mccullough
+0 0
+7 0 0 Golf_Team_7
+70
+Cheyenne
+Cruz
+0 0
+71
+Jescie
+Valenzuela
+0 0
+72
+Ulric
+Rosario
+0 0
+73
+Kirby
+Morgan
+0 0
+74
+Dean
+West
+0 0
+8 0 0 Golf_Team_8
+80
+Tyrone
+Sears
+0 0
+81
+Robin
+Powell
+0 0
+82
+Ashton
+Chen
+0 0
+83
+Sybil
+Richard
+0 0
+84
+Ivan
+Mack
+0 0
+9 0 0 Golf_Team_9
+90
+Maxwell
+Lambert
+0 0
+91
+Hillary
+Patterson
+0 0
+92
+Christian
+Kemp
+0 0
+93
+Sylvia
+Webster
+0 0
+94
+Holly
+Ashley
+0 0
